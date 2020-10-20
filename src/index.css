@@ -1,4 +1,3 @@
-
 .section{
   display: flex;
 }
@@ -15,4 +14,12 @@
 
 .textinput{
   margin-left: 1rem;
+}
+
+.city-details {
+  height: 50rem;
+}
+
+.city-list {
+  height: 50rem;
 }
